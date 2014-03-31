@@ -1,0 +1,550 @@
+/*************************************
+ *	query = "snow leopard"
+ ************************************/
+
+$ make accountkey=cnLsEsvYTSd+XBWkE4lO7z02Wgh3W14UTAwgJ/JURdc= precision=0.9 query="snow leopard"
+./run.sh cnLsEsvYTSd+XBWkE4lO7z02Wgh3W14UTAwgJ/JURdc= 0.9 "snow leopard"
+
+
+Parameters:
+Client key	= cnLsEsvYTSd+XBWkE4lO7z02Wgh3W14UTAwgJ/JURdc=
+Query		= snow leopard
+Precision	= 0.9
+URL: https://api.datamarket.azure.com/Bing/Search/Web?$top=10&$format=json&Query=%27snow%20leopard%27
+Total no of results : 10
+Bing Search Results: 
+=========================
+Result 1
+[
+ URL: http://en.wikipedia.org/wiki/Snow_Leopard
+ Title: Snow leopard - Wikipedia, the free encyclopedia
+ Summary: Snow leopards are slightly smaller than the other big cats but, like them, exhibit a range of sizes, generally weighing between 27 and 55 kg (60 and 121 lb), with an ...
+]
+Relevant (Y/N)?n
+Result 2
+[
+ URL: http://animals.nationalgeographic.com/animals/mammals/snow-leopard/
+ Title: Snow Leopards, Snow Leopard Pictures, Snow Leopard Facts ...
+ Summary: Learn all you wanted to know about snow leopards with pictures, videos, photos, facts, and news from National Geographic.
+]
+Relevant (Y/N)?n
+Result 3
+[
+ URL: http://store.apple.com/us/product/MC573Z/A/mac-os-x-106-snow-leopard
+ Title: Mac OS X 10.6 Snow Leopard - Apple Store (U.S.)
+ Summary: If you need to purchase Mac OS X 10.6 Snow Leopard, you may order it from this page. The most current version of OS X is OS X 10.9 Mavericks.
+]
+Relevant (Y/N)?y
+Result 4
+[
+ URL: http://www.defenders.org/snow-leopard/basic-facts
+ Title: Snow Leopard | Basic Facts About Snow Leopards | Defenders ...
+ Summary: Learn about the size, diet, population, range, behavior and other fascinating facts about snow leopards.
+]
+Relevant (Y/N)?n
+Result 5
+[
+ URL: http://worldwildlife.org/species/snow-leopard
+ Title: Snow Leopard | Species | WWF - World Wildlife Fund
+ Summary: The snow leopard’s powerful build allows it to scale great steep slopes with ease. Its hind legs give the snow leopard the ability to leap six times the length of ...
+]
+Relevant (Y/N)?n
+Result 6
+[
+ URL: http://animals.sandiegozoo.org/animals/snow-leopard
+ Title: Snow Leopard | San Diego Zoo Animals
+ Summary: So how do snow leopards live at high altitudes? They keep mainly to cliffs and rocky slopes, below the permanent snow line. Snow leopards have a relatively small head ...
+]
+Relevant (Y/N)?n
+Result 7
+[
+ URL: http://www.apple.com/support/snowleopard/
+ Title: Apple - Support - Snow Leopard
+ Summary: Get help with installing and using Snow Leopard, setting up email accounts, connecting to the Internet, troubleshooting, and much more.
+]
+Relevant (Y/N)?y
+Result 8
+[
+ URL: http://www.snowleopard.org/
+ Title: Snow Leopard Trust | Saving Snow Leopards
+ Summary: Located in Seattle, they work to protect the endangered snow leopard and its Central Asian habitat.
+]
+Relevant (Y/N)?n
+Result 9
+[
+ URL: http://www.apple.com/osx/
+ Title: OS X - Official Site
+ Summary: The new OS X is loaded with new features, apps, and technologies that give you the power to do more. And make your Mac even more energy-efficient.
+]
+Relevant (Y/N)?y
+Result 10
+[
+ URL: http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Asnow%20leopard
+ Title: Amazon.com: snow leopard
+ Summary: Mac OS X Server v10.6.3 Snow Leopard - Unlimited Client License by Apple Mac OS X 10.6 "Snow Leopard" Server Unlimited MC190Z/A (DVD-ROM) - Mac OS X Intel
+]
+Relevant (Y/N)?y
+=========================
+FEEDBACK SUMMARY
+Query: snow leopard
+Precision: 0.4
+Still below the desired precision of 0.9
+Indexing results ....
+Indexing results ....
+Augmenting by os apple 
+Parameters:
+Client key	= cnLsEsvYTSd+XBWkE4lO7z02Wgh3W14UTAwgJ/JURdc=
+Query		= snow leopard apple os
+Precision	= 0.9
+URL: https://api.datamarket.azure.com/Bing/Search/Web?$top=10&$format=json&Query=%27snow%20leopard%20apple%20os%27
+Total no of results : 10
+Bing Search Results: 
+=========================
+Result 1
+[
+ URL: http://www.apple.com/support/snowleopard/
+ Title: Apple - Support - Snow Leopard
+ Summary: Get help with installing and using Snow Leopard, setting up email accounts, connecting to the Internet, troubleshooting, and much more.
+]
+Relevant (Y/N)?y
+Result 2
+[
+ URL: http://store.apple.com/us/product/MC573Z/A/mac-os-x-106-snow-leopard
+ Title: Mac OS X 10.6 Snow Leopard - Apple Store (U.S.)
+ Summary: If you need to purchase Mac OS X 10.6 Snow Leopard, you may order it from this page. The most current version of OS X is OS X 10.9 Mavericks.
+]
+Relevant (Y/N)?y
+Result 3
+[
+ URL: http://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard
+ Title: Mac OS X Snow Leopard - Wikipedia, the free encyclopedia
+ Summary: Mac OS X Snow Leopard (version 10.6) is the seventh major release of Mac OS X, Apple's desktop and server operating system for Macintosh computers. Snow Leopard was ...
+]
+Relevant (Y/N)?y
+Result 4
+[
+ URL: http://www.scotzine.com/wp-trak.php?id=mac-os-x-10-6-download-apple
+ Title: Mac os x 10.6 download apple - Apple Mac OS X 10.6 Snow ...
+ Summary: Its easy to produce visually compelling documents more efficiently, efficiently and stay up to Buy online os leopard 10.6 mac information in Cheap 10.6 apple leopard ...
+]
+Relevant (Y/N)?y
+Result 5
+[
+ URL: http://www.apple.com/osx/
+ Title: OS X - Official Site
+ Summary: The new OS X is loaded with new features, apps, and technologies that give you the power to do more. And make your Mac even more energy-efficient.
+]
+Relevant (Y/N)?y
+Result 6
+[
+ URL: http://www.apple.com/osx/how-to-upgrade/
+ Title: Apple - Upgrade your Mac to OS X Mavericks.
+ Summary: Upgrading your Mac to OS X Mavericks is easy. ... Click the Apple icon and choose Software Update to install OS X Snow Leopard 10.6.8, the latest version.
+]
+Relevant (Y/N)?y
+Result 7
+[
+ URL: http://www.amazon.com/version-Leopard-computer-processor-required/dp/B001AMHWP8
+ Title: Amazon.com: Mac OS X version 10.6.3 Snow Leopard (Mac ...
+ Summary: Mac OS X Snow Leopard is an even more powerful and refined version of the world’s most advanced operating system. In ways big and small, it gets faster, more ...
+]
+Relevant (Y/N)?y
+Result 8
+[
+ URL: http://download.cnet.com/Apple-Mac-OS-X-Snow-Leopard/3000-18513_4-90306.html
+ Title: Apple Mac OS X Snow Leopard for Mac - Free download and ...
+ Summary: Sneaking in a few days before its promised September release, the tune-up for Mac OS X Leopard costs $29 for current Leopard users, and packs just enough ...
+]
+Relevant (Y/N)?y
+Result 9
+[
+ URL: http://www.ebay.com/sch/i.html?_nkw=mac+os+snow+leopard
+ Title: mac os snow leopard | eBay - Electronics, Cars, Fashion ...
+ Summary: Find great deals on eBay for mac os snow leopard and mac osx snow leopard. Shop with confidence.
+]
+Relevant (Y/N)?y
+Result 10
+[
+ URL: http://www.newegg.com/Product/Product.aspx?Item=N82E16834100179
+ Title: Apple MacBook MC207LL/A Intel Core 2 Duo 2.26GHz 2GB ...
+ Summary: Buy Apple MacBook MC207LL/A Intel Core 2 Duo 2.26GHz 2GB Memory 250GB HDD 13.3" Notebook Mac OS X v10.6 Snow Leopard with fast shipping and top-rated customer ...
+]
+Relevant (Y/N)?y
+=========================
+FEEDBACK SUMMARY
+Query: snow leopard apple os
+Precision: 1.0
+Desired precision reached, done
+
+
+
+
+
+
+
+/*************************************
+ *	query = "gates"
+ ************************************/
+
+
+$ make accountkey=cnLsEsvYTSd+XBWkE4lO7z02Wgh3W14UTAwgJ/JURdc= precision=0.9 query="gates"
+./run.sh cnLsEsvYTSd+XBWkE4lO7z02Wgh3W14UTAwgJ/JURdc= 0.9 "gates"
+
+
+Parameters:
+Client key	= cnLsEsvYTSd+XBWkE4lO7z02Wgh3W14UTAwgJ/JURdc=
+Query		= gates
+Precision	= 0.9
+URL: https://api.datamarket.azure.com/Bing/Search/Web?$top=10&$format=json&Query=%27gates%27
+Total no of results : 10
+Bing Search Results: 
+=========================
+Result 1
+[
+ URL: http://gates.com/
+ Title: Gates - Powering Progress™ in belts, hose & hydraulics
+ Summary: Gates Corporation is Powering Progress™ in the Oil & Gas, Energy, Mining, Marine, Agriculture, Transportation and Automotive Industries.
+]
+Relevant (Y/N)?n
+Result 2
+[
+ URL: http://www.gatecrafters.com/design_your_gates.aspx
+ Title: Driveway Gates | Automatic Gates | Electric Gates
+ Summary: Driveway Gates - Automatic Gates The high-quality driveway gates from GateCrafters.com come in a wide variety of options to ...
+]
+Relevant (Y/N)?n
+Result 3
+[
+ URL: http://www.gates.com/automotive.cfm
+ Title: Automotive | Gates Corporation
+ Summary: Gates offers the most complete line of original equipment products, including automotive hoses, belts & accessories for the automotive aftermarket.
+]
+Relevant (Y/N)?n
+Result 4
+[
+ URL: http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Agates
+ Title: Amazon.com: gates
+ Summary: In stock but may require an extra 1-2 days to process. FREE Shipping on orders over $35
+]
+Relevant (Y/N)?n
+Result 5
+[
+ URL: http://www.toysrus.com/category/index.jsp?categoryId=3243470
+ Title: Safety Gates - Health & Safety - Babies "R" Us
+ Summary: Safety gates available at Babies'R'Us with the best prices and top selections! Shop now for quality, safe and durable baby safety gates and accessories!
+]
+Relevant (Y/N)?n
+Result 6
+[
+ URL: http://en.wikipedia.org/wiki/Bill_Gates
+ Title: Bill Gates - Wikipedia, the free encyclopedia
+ Summary: William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, investor, programmer, inventor and philanthropist. Gates is the ...
+]
+Relevant (Y/N)?y
+Result 7
+[
+ URL: http://dictionary.reference.com/browse/gates
+ Title: Gates | Define Gates at Dictionary.com
+ Summary: gate 1 (ɡeɪt) —n: 1. a movable barrier, usually hinged, for closing an opening in a wall, fence, etc: 2. an opening to allow passage into or out of an enclosed place
+]
+Relevant (Y/N)?n
+Result 8
+[
+ URL: http://en.wikipedia.org/wiki/Gate
+ Title: Gate - Wikipedia, the free encyclopedia
+ Summary: Types . Types of gates include: Baby gate; City gate; Hampshire gate; Kissing gate; Lych gate; Mon (architecture), Japanese gates of many varieties including the Torii
+]
+Relevant (Y/N)?n
+Result 9
+[
+ URL: http://www.toysrus.com/family/index.jsp?categoryId=2256222
+ Title: Baby Gates - Babies"R"Us - Toysrus
+ Summary: Safe & durable baby gates will keep your baby safe. Choose from a large assortment of baby gates including extra wide gates to suit your needs. Shop today.
+]
+Relevant (Y/N)?n
+Result 10
+[
+ URL: http://www.townofgates.org/
+ Title: Town of Gates - A Community For All People
+ Summary: Gates, New York is a dynamic town in Monroe County with an interesting past and a bright future. The town was incorporated in 1813 and was the last remnants of ...
+]
+Relevant (Y/N)?n
+=========================
+FEEDBACK SUMMARY
+Query: gates
+Precision: 0.1
+Still below the desired precision of 0.9
+Indexing results ....
+Indexing results ....
+Augmenting by original microsoft 
+Parameters:
+Client key	= cnLsEsvYTSd+XBWkE4lO7z02Wgh3W14UTAwgJ/JURdc=
+Query		= microsoft gates original
+Precision	= 0.9
+URL: https://api.datamarket.azure.com/Bing/Search/Web?$top=10&$format=json&Query=%27microsoft%20gates%20original%27
+Total no of results : 10
+Bing Search Results: 
+=========================
+Result 1
+[
+ URL: http://en.wikipedia.org/wiki/Microsoft
+ Title: Microsoft - Wikipedia, the free encyclopedia
+ Summary: Microsoft was founded by Bill Gates and Paul Allen on April 4, ... Microsoft claims that the original strategy is not anti-competitive, but ...
+]
+Relevant (Y/N)?y
+Result 2
+[
+ URL: http://en.wikipedia.org/wiki/Bill_Gates
+ Title: Bill Gates - Wikipedia, the free encyclopedia
+ Summary: From Microsoft's founding in 1975 until 2006, Gates had primary responsibility for the company's product strategy. He aggressively broadened the company's ...
+]
+Relevant (Y/N)?y
+Result 3
+[
+ URL: http://www.microsoft.com/en-us/news/features/2008/jun08/06-25iconic.aspx
+ Title: Iconic Albuquerque Photo Re-Created - Microsoft
+ Summary: The original employees of Microsoft, looking a bit more clean-cut, reconvene to honor Bill Gates as he starts a new chapter in his life.
+]
+Relevant (Y/N)?y
+Result 4
+[
+ URL: http://windows.microsoft.com/is-IS/windows/history
+ Title: A history of Windows - Microsoft Windows
+ Summary: In June 1980, Gates and Allen hire Gates’ former Harvard classmate Steve Ballmer to help run the company. The next month, IBM approaches Microsoft about a project ...
+]
+Relevant (Y/N)?y
+Result 5
+[
+ URL: http://www.idownloadblog.com/2012/07/03/bill-gates-on-ipad/
+ Title: Bill Gates on iPad, Surface and Microsoft’s original ...
+ Summary: Bill Gates was on PBS's Charlie Rose show tonight and he got peppered with questions concerning the iPad's gigantic success and why Microsoft's original
+]
+Relevant (Y/N)?y
+Result 6
+[
+ URL: http://inventors.about.com/od/gstartinventors/a/Bill_Gates.htm
+ Title: Bill Gates - Biography and History of the Microsoft Chairman
+ Summary: Microsoft co-founder Bill Gates listens during a press conference to launch a plan aimed at saving 10 million mothers and newborns in the poorest countries
+]
+Relevant (Y/N)?y
+Result 7
+[
+ URL: http://www.chacha.com/question/who-was-bill-gates%27-original-partner
+ Title: Who was Bill Gates' original partner | ChaCha
+ Summary: Shelia Simoneau 2 months ago. Bill Gates' original partner was Paul Allen. In 2004 Paul Allen, Microsoft cofounder was the 5th richest man in the world!
+]
+Relevant (Y/N)?y
+Result 8
+[
+ URL: http://www.microsoft.com/about/companyinformation/timeline/timeline/docs/bp_trustworthy.rtf
+ Title: memo on Trustworthy Computing
+ Summary: ----Original Message----- From: Bill Gates Sent: Tuesday, January 15, 2002 2:22 PM To: Microsoft and Subsidiaries: All FTE Subject: Trustworthy computing
+]
+Relevant (Y/N)?y
+Result 9
+[
+ URL: http://www.biography.com/people/bill-gates-9307520
+ Title: Bill Gates Biography - Facts, Birthday, Life Story ...
+ Summary: Biography.com tracks the life and career of Bill Gates, from his early interest in computer programming to his place as founder of Microsoft, the world's largest ...
+]
+Relevant (Y/N)?y
+Result 10
+[
+ URL: http://www.ask.com/question/who-was-bill-gates-original-business-partner
+ Title: Who Was Bill Gates Original Business Partner - Ask.com
+ Summary: Bill Gates was born in October 28th, in the 1955, in Seattle, Washington. Gates and Allen, his first partner, formed a company that they called Traf-O-Data. William
+]
+Relevant (Y/N)?y
+=========================
+FEEDBACK SUMMARY
+Query: microsoft gates original
+Precision: 1.0
+Desired precision reached, done
+
+
+
+
+
+
+
+/*************************************
+ *	query = "columbia"
+ ************************************/
+
+
+$ make accountkey=cnLsEsvYTSd+XBWkE4lO7z02Wgh3W14UTAwgJ/JURdc= precision=0.9 query="columbia"
+./run.sh cnLsEsvYTSd+XBWkE4lO7z02Wgh3W14UTAwgJ/JURdc= 0.9 "columbia"
+
+
+Parameters:
+Client key	= cnLsEsvYTSd+XBWkE4lO7z02Wgh3W14UTAwgJ/JURdc=
+Query		= columbia
+Precision	= 0.9
+URL: https://api.datamarket.azure.com/Bing/Search/Web?$top=10&$format=json&Query=%27columbia%27
+Total no of results : 10
+Bing Search Results: 
+=========================
+Result 1
+[
+ URL: http://www.columbia.com/
+ Title: Columbia Sportswear - Official Site
+ Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+Relevant (Y/N)?n
+Result 2
+[
+ URL: http://www.columbia.edu/
+ Title: Columbia University - Official Site
+ Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+Relevant (Y/N)?y
+Result 3
+[
+ URL: http://en.wikipedia.org/wiki/Columbia_(name)
+ Title: Columbia (name) - Wikipedia, the free encyclopedia
+ Summary: Columbia is a historical and poetic name used for the United States of America and is also the name of its female personification. It has inspired the names of many ...
+]
+Relevant (Y/N)?n
+Result 4
+[
+ URL: http://columbiasc.net/
+ Title: :: Welcome to the City of Columbia ::
+ Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+Relevant (Y/N)?n
+Result 5
+[
+ URL: http://www.columbia.com/on/demandware.store/Sites-Columbia_US-Site/default/Home-SelectCountry
+ Title: Columbia Sportswear | International > Select a Country
+ Summary: Welcome to the Greater Outdoors. Experience the Columbia Sportswear website specific to your country and language. Learn more about our products and find out where to ...
+]
+Relevant (Y/N)?n
+Result 6
+[
+ URL: http://www.gocolumbiamo.com/
+ Title: Columbia, Missouri - Official Site
+ Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+Relevant (Y/N)?n
+Result 7
+[
+ URL: http://www8.gsb.columbia.edu/
+ Title: Home | Columbia Business School
+ Summary: Columbia Business School brings a global perspective, cutting-edge methodology, and the energy of New York City to its MBA, EMBA, Executive Education, PhD, and MS ...
+]
+Relevant (Y/N)?y
+Result 8
+[
+ URL: http://www.visitcolumbiacalifornia.com/
+ Title: Columbia, California | Historic Gold Rush Town
+ Summary: Come discover Columbia and explore the rich history of this charming California Gold Rush town located in the heart of the Mother Lode off of highway 49.
+]
+Relevant (Y/N)?n
+Result 9
+[
+ URL: http://en.wikipedia.org/wiki/Columbia_university
+ Title: Columbia University - Wikipedia, the free encyclopedia
+ Summary: Columbia University in the City of New York, commonly referred to as Columbia University, is an American private Ivy League research university located in ...
+]
+Relevant (Y/N)?y
+Result 10
+[
+ URL: http://new.sipa.columbia.edu/
+ Title: Columbia | SIPA | School of International and Public Affairs
+ Summary: Columbia SIPA is the world’s most global public policy school. SIPA offers MPA, MIA and PhD degrees focused on the skills and knowledge needed to solve the most ...
+]
+Relevant (Y/N)?y
+=========================
+FEEDBACK SUMMARY
+Query: columbia
+Precision: 0.4
+Still below the desired precision of 0.9
+Indexing results ....
+Indexing results ....
+Augmenting by university sipa 
+Parameters:
+Client key	= cnLsEsvYTSd+XBWkE4lO7z02Wgh3W14UTAwgJ/JURdc=
+Query		= columbia sipa university
+Precision	= 0.9
+URL: https://api.datamarket.azure.com/Bing/Search/Web?$top=10&$format=json&Query=%27columbia%20sipa%20university%27
+Total no of results : 10
+Bing Search Results: 
+=========================
+Result 1
+[
+ URL: http://new.sipa.columbia.edu/
+ Title: Columbia | SIPA | School of International and Public Affairs
+ Summary: Columbia SIPA is the world’s most global public policy school. SIPA offers MPA, MIA and PhD degrees focused on the skills and knowledge needed to solve the most ...
+]
+Relevant (Y/N)?y
+Result 2
+[
+ URL: https://new.sipa.columbia.edu/academics/programs
+ Title: Degree Programs | Columbia | SIPA
+ Summary: Lecture with Maurice Crul, Free University, Amsterdam, and the Erasmus University, Rotterdam.
+]
+Relevant (Y/N)?y
+Result 3
+[
+ URL: http://en.wikipedia.org/wiki/School_of_International_and_Public_Affairs,_Columbia_University
+ Title: School of International and Public Affairs, Columbia ...
+ Summary: The School of International and Public Affairs (SIPA) at Columbia University is widely considered to be one of the most prestigious graduate international affairs ...
+]
+Relevant (Y/N)?y
+Result 4
+[
+ URL: https://www.facebook.com/Columbia.SIPA
+ Title: Columbia | SIPA - New York, NY - Education | Facebook
+ Summary: Columbia | SIPA, New York, NY. 8,307 likes · 61 talking about this · 5,095 were here. This page is managed by Columbia University's School of International and ...
+]
+Relevant (Y/N)?y
+Result 5
+[
+ URL: http://sipa.sc.edu/
+ Title: Southern Interscholastic Press Association (SIPA)
+ Summary: Founded at Washington and Lee University in 1926, SIPA moved to the University of South Carolina in 1972. Members are from District of Columbia and 15 states ...
+]
+Relevant (Y/N)?n
+Result 6
+[
+ URL: http://sipa.columbia.edu/academics/workshops/documents/BAH_Syllabus_Spring2013.pdf
+ Title: Columbia University | SIPA
+ Summary: 1 Columbia University | SIPA Capstone Workshop – Spring 2013 Full Course Title: Booz Allen Hamilton: Developing a Model for Assessment of Political Risk in the
+]
+Relevant (Y/N)?y
+Result 7
+[
+ URL: http://www.sipa.columbia.edu/admit/
+ Title: Welcome to SIPA - Columbia | SIPA | School of ...
+ Summary: Welcome to SIPA. Congratulations and welcome to the Columbia University School of International and Public Affairs (SIPA). Please login to the Fall 2013 Admitted ...
+]
+Relevant (Y/N)?y
+Result 8
+[
+ URL: http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-public-affairs-schools/columbia-university-190150
+ Title: Columbia University | Best Public Affairs School | US News
+ Summary: See if Columbia University is ranked and get info on programs, admission, tuition, and more. US News & World Report; ... sipa_admission@columbia.edu Admissions Website:
+]
+Relevant (Y/N)?y
+Result 9
+[
+ URL: http://sipa.columbia.edu/academics/workshops/documents/US_CIA_Syllabus_Spring2013.pdf
+ Title: Columbia University | SIPA
+ Summary: 1 Columbia University | SIPA Capstone Workshop – Spring 2013 Full Course Title: Central Intelligence Agency: Rebuilding Participatory and Inclusive Governance in
+]
+Relevant (Y/N)?y
+Result 10
+[
+ URL: http://cuit.columbia.edu/
+ Title: Columbia University Information Technology
+ Summary: Columbia University Medical Center Information Technology (CUMC IT) Center for Digital Research and Scholarship (CDRS) ... SIPA Computer Facilities;
+]
+Relevant (Y/N)?y
+=========================
+FEEDBACK SUMMARY
+Query: columbia sipa university
+Precision: 0.9
+Desired precision reached, done
+
+
+
