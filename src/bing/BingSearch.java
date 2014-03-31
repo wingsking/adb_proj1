@@ -33,14 +33,6 @@ public class BingSearch {
 		String query = args[2].replaceAll("[^\\p{L}\\p{Z}\\']", " ")
 				.replaceAll("\\s+", " ");
 
-		/*
-		 * String accountKey = "cnLsEsvYTSd+XBWkE4lO7z02Wgh3W14UTAwgJ/JURdc=";
-		 * double preset = Double.parseDouble("0.9"); double precision = preset;
-		 * 
-		 * String query = "wow".replaceAll("[^\\p{L}\\p{Z}]",
-		 * " ").replaceAll("\\s+", " "); // change to any query you like
-		 */
-
 		// chhanges the query term to lower case form
 		query = query.toLowerCase();
 		Scanner scan = new Scanner(System.in);
@@ -139,13 +131,6 @@ public class BingSearch {
 					System.out.print(str + " ");
 				}
 				System.out.println();
-				// String[] augments = augmentQuery(results);
-
-				// output augmented keywords
-				// System.out.println("Augmenting by " + augments);
-
-				// construct new query
-				// query += augments
 
 			} else {
 				System.out
@@ -171,9 +156,7 @@ public class BingSearch {
 	public static String getContent(String accountKey, double precision,
 			String query) throws IOException {
 		// need to encode query with URL-style
-		String encodeQuery = parseQuery(query); // "gates microsoft"
-												// ->
-												// "gates%20microsoft"
+		String encodeQuery = parseQuery(query); 
 
 		String bingUrl = "https://api.datamarket.azure.com/Bing/Search/Web?$top=10&$format=json&Query=%27"
 				+ encodeQuery + "%27";
